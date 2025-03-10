@@ -84,7 +84,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=arkaprabde&theme=merko&hide_border=false&include_all_commits=true&count_private=true)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=arkaprabde&theme=tokyonight" alt="mystreak"/>
-[![Kunj's GitHub | Stats](https://stats.quine.sh/arkaprabde/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=kunj1)
+[![Arkaprabha's GitHub | Stats](https://stats.quine.sh/arkaprabde/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=arkaprabde)
 ![](https://github-readme-streak-stats.herokuapp.com/?username=arkaprabde&theme=merko&hide_border=false)
 
 
