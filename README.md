@@ -71,11 +71,11 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" height="30" alt="ubuntu logo"  />
   <img width="12" />
-  <img src="https://img.icons8.com/?size=100&id=A3Ulk2RcONKs&format=png&color=000000" height="30" alt="springboot logo"/>
+  <img src="https://www.linkedin.com/pulse/spring-boot-unleashing-java-development-simplicity-speed-hindole" height="30" alt="springboot logo"/>
   <img width="12" />
-  <img src="https://img.icons8.com/?size=100&id=EPbEfEa7o8CB&format=png&color=000000" height="30" alt="ubuntu logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" height="30" alt="postman logo"  />
   <img width="12" />
-  <img src="https://img.icons8.com/?size=100&id=JRnxU7ZWP4mi&format=png&color=000000" height="30" alt="ubuntu logo"  />
+  <img src="https://storage.googleapis.com/dycr-web/image/topic/postgresql/postgresql.jpg" height="30" alt="PostgreSQL logo"  />
   <img width="12" />
 </div>
 
