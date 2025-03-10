@@ -71,7 +71,7 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" height="30" alt="ubuntu logo"  />
   <img width="12" />
-  <img src="https://www.linkedin.com/pulse/spring-boot-unleashing-java-development-simplicity-speed-hindole" height="30" alt="springboot logo"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTijgVC0k-lEVQvdt7uH0_uayQ-wLVZv-jD52FT8xExxpKMkQJKlK15643GwznvUfSvBL4&usqp=CAU" height="30" alt="springboot logo"/>
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" height="30" alt="postman logo"  />
   <img width="12" />
