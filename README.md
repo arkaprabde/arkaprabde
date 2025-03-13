@@ -1,7 +1,7 @@
+<p><h1 align="center" style="text-decoration: none; cursor: none;">Hi👋<br/></h1>
 <div align="center">
   <img height="167" src="https://arkaprabde.github.io/ReadmeDocs/Banner.jpg"  />
 </div>
-<p><h1 align="center" style="text-decoration: none; cursor: none;">Hi👋<br/></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Java+Backend+Developer;Pre+Final+Year+CSE+Undergrad;"></a>
 </p>
